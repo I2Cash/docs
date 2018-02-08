@@ -33,7 +33,7 @@ Cash will be credited to all ANC holders. We will take a snapshot of the blockch
 
 ### If I have 10 ANC, how much Cash will I get?
 
-This decision on the ratio of ANC to Cash has not been made. We are listening to the voice of the community for this. You can [come to our Slack and join the discussion.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU)
+A decision on the ratio of ANC to Cash has not been made. We are listening to the voice of the community for this. You can [come to our Slack and join the discussion.](https://join.slack.com/t/anoncoin/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU)
 
 This document will be updated once we have decided this.
 
@@ -55,7 +55,7 @@ Don't panic - We know of this issue and will release a version fixing this befor
 
 ### Is this actively developed?
 
-Yes, we're implementing it as you write this. Code will be released when we are ready.
+Yes, we're implementing it as you read this. Code will be released when we are ready.
 
 ### What languages are used?
 
